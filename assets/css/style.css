@@ -1,0 +1,17 @@
+body {
+    background: lightgrey;
+}
+#trainHeader{
+    background: darkblue;
+    color: white;
+    text-align: center;
+}
+.trainInput {
+    width: 100%;
+}
+.firstTrainInput {
+    width: 40px;
+}
+.card {
+    margin-bottom: 20px;
+}
